@@ -1,0 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+Angol szókikérdező, 60000 szóval. Tanulj angol szavakat oda-vissza, a jól bevált időközönkénti ismétléses technikával mint amit a Duolingo is használ, annak is egy javított, hatékonyabb, nemrég megjelent, modern változatával, mely annál később kérdezi ki a szót, minél jobban tudod, így ültetve át a rövid távú memóriából a hosszúba a szavakat. Ezzel a módszerrel kevés időráfordítással lehet sok szót megtanulni. A szavak gyakorisági sorrendbe vannak rendezve, így valóban azokat a szavakat tanulod elsőként amelyek ténylegesen gyakran vannak használva az angol nyelvben.
+
+![image tooltip here](/assets/main.png){: width="200" }
+![image tooltip here](/assets/light.png){: width="200" }
+![image tooltip here](/assets/dark.png){: width="200" }
