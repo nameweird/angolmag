@@ -14,4 +14,5 @@ Angol szókikérdező, több mint 60ezer szóval. Tanulj angol szavakat oda-viss
 
 Letöltés: androidra [Android Playstore]() 
 <!-- [Ios App Store]()  -->
+
 Letöltés: iphone-ra [Ios App Store]() 
